@@ -1,0 +1,4 @@
+<launch>
+  <include file="$(find manual_nav)/launch/environment.launch" />
+  <include file="$(find manual_nav)/launch/manualnav.launch" />
+</launch>
